@@ -19,15 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Marios Kefalas
-email: your-email@example.com
+email:  m.kefalas@liacs.leidenuniv.nl
+email_2: mariosk92@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Just a website to discuss my work and my interests.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://marioskef.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: kefalas_marios
+github_username:  marioskef
+linkedin_username: marios-kefalas
+instagram_username: mariokef
 
 # Build settings
 theme: minima
