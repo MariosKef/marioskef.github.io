@@ -29,11 +29,18 @@ twitter_username: kefalas_marios
 github_username:  marioskef
 linkedin_username: marios-kefalas
 instagram_username: mariokef
+researchgate_username: Marios-Kefalas
+
+resume: Marios
 
 # Build settings
 theme: minima
+# remote_theme: pages-themes/tactile@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
