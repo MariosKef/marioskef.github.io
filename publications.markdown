@@ -5,6 +5,15 @@ permalink: /publications/
 ---
 
 
-<iframe src="https://giphy.com/embed/jp7jSyjNNz2ansuOS8" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theoffice-jp7jSyjNNz2ansuOS8">via GIPHY</a></p>
+<!-- <iframe src="https://giphy.com/embed/jp7jSyjNNz2ansuOS8" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theoffice-jp7jSyjNNz2ansuOS8">via GIPHY</a></p>
 
-**Under construction**
+**Under construction** -->
+
+- [M. Kefalas, M. Baratchi, A. Apostolidis, D. van den Herik and T. Bäck, "Automated Machine Learning for Remaining Useful Life Estimation of Aircraft Engines," 2021 IEEE International Conference on Prognostics and Health Management (ICPHM), 2021, pp. 1-9, doi: 10.1109/ICPHM51084.2021.9486549.](https://ieeexplore.ieee.org/document/9486549)
+
+- [M. Kefalas, M. Koch, V. Geraedts, H. Wang, M. Tannemaat and T. Bäck, "Automated Machine Learning for the Classification of Normal and Abnormal Electromyography Data," 2020 IEEE International Conference on Big Data (Big Data), 2020, pp. 1176-1185, doi: 10.1109/BigData50022.2020.9377780.](https://ieeexplore.ieee.org/abstract/document/9377780)
+
+- [V. D. Nguyen,  M. Kefalas,  K. Yang,  A. Apostolidis,  M. Olhofer,and  S. Limmer,  “A  Review:  Prognostics  and  Health  Management  inAutomotive and Aerospace,” p. 35.](https://papers.phmsociety.org/index.php/ijphm/article/view/2730)
+
+- [Marios Kefalas, Steffen Limmer, Asteris Apostolidis, Markus Olhofer, Michael Emmerich, and Thomas Bäck. 2019. A tabu search-based memetic algorithm for the multi-objective flexible job shop scheduling problem. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '19). Association for Computing Machinery, New York, NY, USA, 1254–1262. DOI:https://doi.org/10.1145/3319619.3326817](https://dl.acm.org/doi/10.1145/3319619.3326817)
+
