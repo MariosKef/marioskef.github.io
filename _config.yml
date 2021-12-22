@@ -31,8 +31,6 @@ linkedin_username: marios-kefalas
 instagram_username: mariokef
 researchgate_username: Marios-Kefalas
 
-resume: Marios
-
 # Build settings
 theme: minima
 # remote_theme: pages-themes/tactile@v0.2.0
@@ -50,7 +48,7 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-exclude:
+# exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
