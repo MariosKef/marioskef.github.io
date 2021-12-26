@@ -17,3 +17,9 @@ permalink: /publications/
 
 - [Marios Kefalas, Steffen Limmer, Asteris Apostolidis, Markus Olhofer, Michael Emmerich, and Thomas Bäck. 2019. A tabu search-based memetic algorithm for the multi-objective flexible job shop scheduling problem. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '19). Association for Computing Machinery, New York, NY, USA, 1254–1262. DOI:https://doi.org/10.1145/3319619.3326817](https://dl.acm.org/doi/10.1145/3319619.3326817)
 
+- [A. Maulana, M. Kefalas and M. T. M. Emmerich, "Immunization of networks using genetic algorithms and multiobjective metaheuristics," 2017 IEEE Symposium Series on Computational Intelligence (SSCI), 2017, pp. 1-8, doi: 10.1109/SSCI.2017.8285368.](https://ieeexplore.ieee.org/document/8285368)
+
+- [Multiple Node Immunisation for Preventing Epidemics on Networks by Exact Multiobjective Optimisation of Cost and Shield-Value](https://arxiv.org/abs/2010.06488)
+
+- [Geraedts, V.J., Koch, M., Kuiper, R., Kefalas, M., Bäck, T.H., van Hilten, J.J., Wang, H., Middelkoop, H.A., van der Gaag, N.A., Contarino, M.F. and Tannemaat, M.R. (2021), Preoperative Electroencephalography-Based Machine Learning Predicts Cognitive Deterioration After Subthalamic Deep Brain Stimulation. Mov Disord, 36: 2324-2334. https://doi.org/10.1002/mds.28661](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.28661)
+
