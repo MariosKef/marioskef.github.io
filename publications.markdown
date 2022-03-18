@@ -23,5 +23,5 @@ permalink: /publications/
 
 - [Geraedts, V.J., Koch, M., Kuiper, R., Kefalas, M., Bäck, T.H., van Hilten, J.J., Wang, H., Middelkoop, H.A., van der Gaag, N.A., Contarino, M.F. and Tannemaat, M.R. (2021), Preoperative Electroencephalography-Based Machine Learning Predicts Cognitive Deterioration After Subthalamic Deep Brain Stimulation. Mov Disord, 36: 2324-2334. https://doi.org/10.1002/mds.28661](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.28661)
 
-- [Marios Kefalas, Juan de Santiago Rojo, Asteris Apostolidis, Dirk van den Herik, Bas van Stein, and Thomas B¨ack. Explainable Artificial Intelligence for Exhaust Gas Temperature of Turbofan Engines. Journal of Aerospace Information Systems, pages 1–8, 2022. Publisher: American Institute of Aeronautics and Astronautics eprint: https://doi.org/10.2514/1.I011058](https://arc.aiaa.org/doi/suppl/10.2514/1.I011058)
+- [Marios Kefalas, Juan de Santiago Rojo, Asteris Apostolidis, Dirk van den Herik, Bas van Stein, and Thomas Bäck. Explainable Artificial Intelligence for Exhaust Gas Temperature of Turbofan Engines. Journal of Aerospace Information Systems, pages 1–8, 2022. Publisher: American Institute of Aeronautics and Astronautics eprint: https://doi.org/10.2514/1.I011058](https://arc.aiaa.org/doi/suppl/10.2514/1.I011058)
 
