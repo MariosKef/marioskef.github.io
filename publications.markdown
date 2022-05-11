@@ -25,3 +25,4 @@ permalink: /publications/
 
 - [Marios Kefalas, Juan de Santiago Rojo, Asteris Apostolidis, Dirk van den Herik, Bas van Stein, and Thomas Bäck. Explainable Artificial Intelligence for Exhaust Gas Temperature of Turbofan Engines. Journal of Aerospace Information Systems, pages 1–8, 2022. Publisher: American Institute of Aeronautics and Astronautics eprint: https://doi.org/10.2514/1.I011058](https://arc.aiaa.org/doi/suppl/10.2514/1.I011058)
 
+-[F. Yang, M. Kefalas, M. Koch, A. V. Kononova, Y. Qiao and T. Bäck, ``Auto-REP: An Automated Regression Pipeline Approach for High-efficiency Earthquake Prediction Using LANL Data'' 2022 14th International Conference on Computer and Automation Engineering (ICCAE), 2022, pp. 127-134. doi:https://doi.org/10.1109/ICCAE55086.2022.9762437](https://doi.org/10.1109/ICCAE55086.2022.9762437)
