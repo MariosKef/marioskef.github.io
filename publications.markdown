@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Publications and Contributions
 permalink: /publications/
 ---
 
@@ -26,3 +26,9 @@ permalink: /publications/
 - [Marios Kefalas, Juan de Santiago Rojo, Asteris Apostolidis, Dirk van den Herik, Bas van Stein, and Thomas Bäck. Explainable Artificial Intelligence for Exhaust Gas Temperature of Turbofan Engines. Journal of Aerospace Information Systems, pages 1–8, 2022. Publisher: American Institute of Aeronautics and Astronautics eprint: https://doi.org/10.2514/1.I011058](https://arc.aiaa.org/doi/suppl/10.2514/1.I011058)
 
 - [F. Yang, M. Kefalas, M. Koch, A. V. Kononova, Y. Qiao and T. Bäck, Auto-REP: An Automated Regression Pipeline Approach for High-efficiency Earthquake Prediction Using LANL Data, 14th International Conference on Computer and Automation Engineering (ICCAE), 2022, pp. 127-134. doi:https://doi.org/10.1109/ICCAE55086.2022.9762437](https://doi.org/10.1109/ICCAE55086.2022.9762437)
+
+- [Marios Kefalas, Bas van Stein, Mitra Baratchi, Asteris Apostolidis, and Thomas H.W. Bäck, “An End-to-End Pipeline for Uncertainty Quantification and Remaining Useful Life Estimation: An Application on Aircraft Engines, 7th European Conferenceof the Prognostics and Health Management Society (PHME22), 2022. PHM Society.DOI:https://doi.org/10.36001/phme.2022.v7i1.3317](https://papers.phmsociety.org/index.php/phme/article/view/3317)
+
+- [Martijn R. Tannemaat, Marios Kefalas, Victor J. Geraedts, Linda Remijn-Nelissen, Anna Verschuuren, Milan Koch, Anna V. Kononova, Hao Wang, and Thomas H.W. Bäck, “Distinguishing normal, neuropathic and myopathic EMG with an automated machine learning approach”, Clinical Neurophysiology, pages 1-17, 2022. Elsevier](https://doi.org/10.1016/j.clinph.2022.11.019)
+
+- [Michael Emmerich, Yulian Kuryliak, Dmytro Dosyn, Ksenia Pereverdieva, Joost Nibbeling and Marios Kefalas, “Multi-objective Targeted Immunization: Non-backtracking vs. Adjacency Matrix”, 15th Workshop on Global Optimization (HUGO 2022), pages 1-4, 2022. International Society of Global Optimization.]()
